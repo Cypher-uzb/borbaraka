@@ -1,1 +1,1 @@
-bot_token="https://www.instagram.com/reel/DBRDphyIEi4/?utm_source=ig_web_copy_link"
+bot_token="7647519119:AAFxvc6bu50UkWbMXW47Z0e4ubTXUblh780"
